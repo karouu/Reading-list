@@ -5,7 +5,6 @@ https://jwodder.github.io/kbits/posts/pypkg-mistakes/
 https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html
 https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6
 https://testdriven.io/blog/python-dependency-injection/
-https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
 https://arpitbhayani.me/blogs/fsm
 https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 
@@ -33,3 +32,5 @@ web related reading list
 Favorite
 https://www.python-course.eu/python3_course.php
 
+Finish
+https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
