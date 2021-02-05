@@ -1,8 +1,14 @@
 Linux
 https://linuxcontainers.org/
+http://www.linuxfromscratch.org/
+http://linuxcommand.org/lc3_learning_the_shell.php
+https://www.raspberrypi.org/documentation/linux/usage/
+https://regex101.com/
+https://www.rfc-editor.org/
 
 
 Design
+https://refactoring.guru/refactoring/catalog
 https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
 https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
@@ -23,6 +29,7 @@ http://pages.cs.wisc.edu/~remzi/OSTEP/
 Others
 https://rafeeqrehman.com/2020/06/12/ciso-mindmap-2020-what-do-infosec-professionals-really-do/?mc_cid=bc40d3e140&mc_eid=479d5c39cd
 https://www.afternerd.com/blog/coding-interview/
+https://www.rfc-editor.org/rfc/rfc2661.html
 
 
 Rethink PID 1
