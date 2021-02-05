@@ -11,11 +11,13 @@ https://www.afternerd.com/blog/category/programming/
 https://www.kennethreitz.org/essays/web-framework-classification-and-clarification
 https://hackernoon.com/asynchronous-python-45df84b82434
 http://www.omahapython.org/IdiomaticPython.html
+https://docs.python-guide.org/
 
 async i/o
 - http://pgbovine.net/python-async-io-walkthrough.htm
 - https://realpython.com/python-sockets/#handling-multiple-connections
 - https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
+https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
 
 web related reading list
 - https://realpython.com/cpython-source-code-guide/
@@ -23,6 +25,7 @@ web related reading list
 - https://www.kadenze.com/courses/all/gallery/all?&sort=latest
 - https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
 - https://dbader.org/blog/python-repr-vs-str | Python String Conversion 101: Why Every Class Needs a “repr” – dbader.org
+https://deepsource.io/blog/new-python-web-frameworks/
 
 
 Favorite
