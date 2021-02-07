@@ -9,7 +9,6 @@ https://www.rfc-editor.org/
 
 Design
 https://refactoring.guru/refactoring/catalog
-https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
 https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
 https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
@@ -20,7 +19,7 @@ https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
 https://camillovisini.com/article/abstracting-fastapi-services/
 https://danielmiessler.com/blog/mechanizing-the-methodology/
-
+https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
 
 system
 http://pages.cs.wisc.edu/~remzi/OSTEP/
