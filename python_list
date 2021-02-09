@@ -1,36 +1,48 @@
+https://pgjones.dev/blog/rest-api-evolution-2020/
 https://hynek.me/articles/testing-packaging/
 https://pythonspeed.com/articles/distributing-software/
-https://pgjones.dev/blog/rest-api-evolution-2020/
 https://jwodder.github.io/kbits/posts/pypkg-mistakes/
 https://testdriven.io/blog/python-dependency-injection/
 https://arpitbhayani.me/blogs/fsm
 https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 https://treyhunner.com/blog/archives/
 https://ruslanspivak.com/archives.html
+https://www.afternerd.com/blog/coding-interview/
 https://www.afternerd.com/blog/category/programming/
+https://deepsource.io/blog/new-python-web-frameworks/
 https://www.kennethreitz.org/essays/web-framework-classification-and-clarification
-https://hackernoon.com/asynchronous-python-45df84b82434
 http://www.omahapython.org/IdiomaticPython.html
 https://docs.python-guide.org/
+https://realpython.com/cpython-source-code-guide/
+https://realpython.com/how-to-make-a-discord-bot-python/
+https://www.kadenze.com/courses/all/gallery/all?&sort=latest
+
 
 async i/o
 - http://pgbovine.net/python-async-io-walkthrough.htm
 - https://realpython.com/python-sockets/#handling-multiple-connections
 - https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
-https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
+- https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
+- https://hackernoon.com/asynchronous-python-45df84b82434
 
-web related reading list
-- https://realpython.com/cpython-source-code-guide/
-- https://realpython.com/how-to-make-a-discord-bot-python/
-- https://www.kadenze.com/courses/all/gallery/all?&sort=latest
-- https://dbader.org/blog/python-dunder-methods | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
-- https://dbader.org/blog/python-repr-vs-str | Python String Conversion 101: Why Every Class Needs a “repr” – dbader.org
-https://deepsource.io/blog/new-python-web-frameworks/
-https://www.fullstackpython.com/table-of-contents.html
+
+Magic method
+https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6
+https://rszalski.github.io/magicmethods/
+https://dbader.org/blog/python-dunder-methods   | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
+
+
+Design pattern
+https://refactoring.guru/refactoring/catalog
+https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
+https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
+https://camillovisini.com/article/abstracting-fastapi-services/
 
 
 Favorite
 https://www.python-course.eu/python3_course.php
+https://www.fullstackpython.com/table-of-contents.html
+
 
 Finish
 https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
@@ -38,6 +50,4 @@ https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html
 
 
-Magic method
-https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6
-https://rszalski.github.io/magicmethods/
+
