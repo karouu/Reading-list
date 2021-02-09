@@ -5,11 +5,16 @@ http://linuxcommand.org/lc3_learning_the_shell.php
 https://www.raspberrypi.org/documentation/linux/usage/
 https://regex101.com/
 https://www.rfc-editor.org/
+https://www.rfc-editor.org/rfc/rfc2661.html  RFC2661  Layer Two Tunneling Protocol "L2TP"
+Rethink PID 1
+http://0pointer.de/blog/projects/systemd.html
+Daemon 
+http://0pointer.de/public/systemd-man/daemon.html#SysV%20Daemons
+https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
 
 
 Design
-https://refactoring.guru/refactoring/catalog
-https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
+https://camillovisini.com/article/abstracting-fastapi-services/
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
 https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
 https://www.dezyre.com/article/hadoop-explained-how-does-hadoop-work-and-how-to-use-it-/237
@@ -17,28 +22,16 @@ https://redis.io/topics/introduction
 https://redis.io/topics/sentinel
 https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
-https://camillovisini.com/article/abstracting-fastapi-services/
-https://danielmiessler.com/blog/mechanizing-the-methodology/
-https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
-
-system
-http://pages.cs.wisc.edu/~remzi/OSTEP/
+https://refactoring.guru/refactoring/catalog
+https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
 
 
 Others
-https://rafeeqrehman.com/2020/06/12/ciso-mindmap-2020-what-do-infosec-professionals-really-do/?mc_cid=bc40d3e140&mc_eid=479d5c39cd
 https://www.afternerd.com/blog/coding-interview/
-https://www.rfc-editor.org/rfc/rfc2661.html
 
-
-Rethink PID 1
-http://0pointer.de/blog/projects/systemd.html
-
-Daemon 
-http://0pointer.de/public/systemd-man/daemon.html#SysV%20Daemons
 
 Favorite
-https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
+http://pages.cs.wisc.edu/~remzi/OSTEP/    |Operation System
 https://tls13.ulfheim.net/
 
 
