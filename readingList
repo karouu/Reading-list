@@ -1,3 +1,10 @@
+Favorite
+http://pages.cs.wisc.edu/~remzi/OSTEP/    |Operation System
+https://danielmiessler.com/study/
+https://danielmiessler.com/blog/mechanizing-the-methodology/
+https://tls13.ulfheim.net/
+
+
 Linux
 https://linuxcontainers.org/
 http://www.linuxfromscratch.org/
@@ -13,8 +20,7 @@ http://0pointer.de/public/systemd-man/daemon.html#SysV%20Daemons
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
 
 
-Design
-https://camillovisini.com/article/abstracting-fastapi-services/
+Architecture
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
 https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
 https://www.dezyre.com/article/hadoop-explained-how-does-hadoop-work-and-how-to-use-it-/237
@@ -22,18 +28,8 @@ https://redis.io/topics/introduction
 https://redis.io/topics/sentinel
 https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
-https://refactoring.guru/refactoring/catalog
-https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
 
 
-Others
-https://www.afternerd.com/blog/coding-interview/
-
-
-Favorite
-http://pages.cs.wisc.edu/~remzi/OSTEP/    |Operation System
-https://danielmiessler.com/study/
-https://tls13.ulfheim.net/
 
 
 Finish
