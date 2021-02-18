@@ -2,7 +2,6 @@ https://pgjones.dev/blog/rest-api-evolution-2020/
 https://hynek.me/articles/testing-packaging/
 https://pythonspeed.com/articles/distributing-software/
 https://jwodder.github.io/kbits/posts/pypkg-mistakes/
-https://testdriven.io/blog/python-dependency-injection/
 https://arpitbhayani.me/blogs/fsm
 https://treyhunner.com/blog/archives/
 https://ruslanspivak.com/archives.html
@@ -51,5 +50,5 @@ https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html
 https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
-
+https://testdriven.io/blog/python-dependency-injection/
 
