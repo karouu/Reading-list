@@ -4,7 +4,6 @@ https://pythonspeed.com/articles/distributing-software/
 https://jwodder.github.io/kbits/posts/pypkg-mistakes/
 https://testdriven.io/blog/python-dependency-injection/
 https://arpitbhayani.me/blogs/fsm
-https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 https://treyhunner.com/blog/archives/
 https://ruslanspivak.com/archives.html
 https://www.afternerd.com/blog/coding-interview/
@@ -16,9 +15,8 @@ https://docs.python-guide.org/
 https://realpython.com/cpython-source-code-guide/
 https://realpython.com/how-to-make-a-discord-bot-python/
 https://www.kadenze.com/courses/all/gallery/all?&sort=latest
-https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
-https://developers.google.com/edu/python/exercises/log-puzzle
 https://developers.google.com/apps-script/overview
+https://developers.google.com/edu/python/exercises/log-puzzle
 
 
 async i/o
@@ -45,12 +43,13 @@ https://camillovisini.com/article/abstracting-fastapi-services/
 Favorite
 https://www.python-course.eu/python3_course.php
 https://www.fullstackpython.com/table-of-contents.html
+https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
 
 
 Finish
 https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html
-
+https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 
 
