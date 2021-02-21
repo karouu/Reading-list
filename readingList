@@ -1,4 +1,6 @@
 Reading list
+https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
+https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
 https://computers-are-fast.github.io/
 https://lwn.net/Articles/250967/    |What every programmer should know about memory
 https://makefiletutorial.com/
@@ -37,6 +39,21 @@ https://www.raspberrypi.org/documentation/linux/usage/
 https://tldp.org/LDP/abs/html/index.html   |Advanced Bash-Scripting Guide
 http://linuxcommand.org/lc3_learning_the_shell.php
 http://www.maizure.org/projects/decoded-gnu-coreutils/
+http://c.biancheng.net/shell/
+
+Vim
+https://vim-adventures.com/
+https://danielmiessler.com/study/vim/
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+https://www.cs.oberlin.edu/~kuperman/help/vim/searching.html
+http://www.vimgolf.com/
+https://ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/
+
+Markdown
+https://www.zettlr.com/
+https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
+https://commonmark.org/help/
+https://jbt.github.io/markdown-editor/#TVFLbtwwDN3rFCxm0xgTOU133WXXA2QXFDDHYizWEmlIctzZ9Rq9Xk9SetqZFNCCIt97/LwDPEeuYA8hYZkIImFgmZw7HP6r1YwpUXmvPkkArNB1nHFiwcYqXQcnDUwVXrW0eHTPkfYwV9BXaNGIxlhlFt2kO1qGYFFqv3/+qrCQGGEtUvd8hqZQIy4mhtZq4jeLLIdcziB6ETu6J0g6YoIu4onb3yEueLTJBDN1nXfu/rqIRSiwipZAhYJ9E9fm3Cd/Qzz6HXIFfPb/EF/tu19iqJoJRg00AMtlg8whJNo3tDORNJKRrOkwDO4qinCyOWdnmJ16qd0ko25w1hUyzgQvZgPL/O1jbG2pX/p+2za/8cwLBUavZervTPzDy80agd0B8u+UiVtcT37U3J85rtz/wGLXQukLJcJKtQ9mQFIM/duDf/CP/Ywl3Wdda8Mxkv++THd/AA==
 
 Architecture
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
@@ -49,10 +66,26 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 
 
 Blogger
+https://jvns.ca/
+https://medium.com/netflix-techblog
+https://www.freecodecamp.org/news/
 http://www.brendangregg.com/blog/index.html
 https://alysivji.github.io/archives.html
 https://rednafi.github.io/digressions/
-https://security.tencent.com/index.php/blog  
+https://security.tencent.com/index.php/blog
+http://calnewport.com/blog/archive/
+https://tim.blog/
+https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
+https://www.scotthyoung.com/blog/articles/
+https://danielmiessler.com/
+http://www.paulgraham.com/articles.html
+http://kk.org/cooltools/
+http://kk.org/
+http://www.ruanyifeng.com/blog/computer/
+http://www.yinwang.org/
+http://wanqu.co/issues/?page=1
+https://seankross.com/
+https://cs.stanford.edu/~jtysu/
 
 Algorithm
 https://www.interviewcake.com/data-structures-reference
@@ -61,6 +94,7 @@ https://www.interviewcake.com/data-structures-reference
 Tools
 https://stackshare.io/devops#!
 https://www.tineye.com/   | image seach
+Latex  https://www.overleaf.com/learn
 
 Finish
 https://www.linuxvoice.com/interview-lennart-poettering/
