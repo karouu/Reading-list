@@ -1,3 +1,10 @@
+Reading list
+https://computers-are-fast.github.io/
+https://lwn.net/Articles/250967/    |What every programmer should know about memory
+https://makefiletutorial.com/
+https://www.tecmint.com/cheat-command-line-cheat-sheet-for-linux-users/
+
+
 Favorite
 http://pages.cs.wisc.edu/~remzi/OSTEP/    |Operation System
 https://danielmiessler.com/study/
@@ -6,11 +13,16 @@ https://tls13.ulfheim.net/
 
 
 Linux
+http://www.brendangregg.com/linuxperf.html
+https://makelinux.github.io/kernel/map/
+http://www.linuxfromscratch.org/lfs/view/stable/
+http://www.maizure.org/projects/decoded-gnu-coreutils/
 https://linuxcontainers.org/
-http://www.linuxfromscratch.org/
-http://linuxcommand.org/lc3_learning_the_shell.php
-https://www.raspberrypi.org/documentation/linux/usage/
+
+https://crontab.guru/
 https://regex101.com/
+http://regexr.com/
+https://datatracker.ietf.org/doc/search
 https://www.rfc-editor.org/
 https://www.rfc-editor.org/rfc/rfc2661.html  RFC2661  Layer Two Tunneling Protocol "L2TP"
 Rethink PID 1
@@ -19,8 +31,12 @@ Daemon
 http://0pointer.de/public/systemd-man/daemon.html#SysV%20Daemons
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
 http://norvig.com/21-days.html
-https://computers-are-fast.github.io/
 
+Shell
+https://www.raspberrypi.org/documentation/linux/usage/
+https://tldp.org/LDP/abs/html/index.html   |Advanced Bash-Scripting Guide
+http://linuxcommand.org/lc3_learning_the_shell.php
+http://www.maizure.org/projects/decoded-gnu-coreutils/
 
 Architecture
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
@@ -33,9 +49,18 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 
 
 Blogger
+http://www.brendangregg.com/blog/index.html
 https://alysivji.github.io/archives.html
 https://rednafi.github.io/digressions/
+https://security.tencent.com/index.php/blog  
 
+Algorithm
+https://www.interviewcake.com/data-structures-reference
+
+
+Tools
+https://stackshare.io/devops#!
+https://www.tineye.com/   | image seach
 
 Finish
 https://www.linuxvoice.com/interview-lennart-poettering/
