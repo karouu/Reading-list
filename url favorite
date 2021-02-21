@@ -3,7 +3,7 @@ http://pages.cs.wisc.edu/~remzi/OSTEP/    |Operation System
 https://danielmiessler.com/study/
 https://danielmiessler.com/blog/mechanizing-the-methodology/
 https://tls13.ulfheim.net/
-
+https://tls.ulfheim.net/
 
 Linux
 http://www.brendangregg.com/linuxperf.html
@@ -12,12 +12,16 @@ http://www.linuxfromscratch.org/lfs/view/stable/
 http://www.maizure.org/projects/decoded-gnu-coreutils/
 https://linuxcontainers.org/
 
+https://realpython.com/courses/building-regexes-python/
+https://blog.patricktriest.com/you-should-learn-regex/
 https://crontab.guru/
 https://regex101.com/
 http://regexr.com/
+
 https://datatracker.ietf.org/doc/search
-https://www.rfc-editor.org/
-https://www.rfc-editor.org/rfc/rfc2661.html  RFC2661  Layer Two Tunneling Protocol "L2TP"
+http://www.rfcreader.com/#
+https://www.rfc-editor.org/rfc/rfc2661.html     RFC2661  Layer Two Tunneling Protocol "L2TP"
+
 Rethink PID 1
 http://0pointer.de/blog/projects/systemd.html
 Daemon 
@@ -55,8 +59,13 @@ https://redis.io/topics/sentinel
 https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
 
+Tech Media
+https://spectrum.ieee.org/
+https://www.digitalocean.com/community/tutorials
+https://techdevguide.withgoogle.com/
 
 Blogger
+https://codewithoutrules.com/skills/
 https://jvns.ca/
 https://medium.com/netflix-techblog
 https://www.freecodecamp.org/news/
@@ -80,12 +89,18 @@ https://cs.stanford.edu/~jtysu/
 
 Algorithm
 https://www.interviewcake.com/data-structures-reference
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/
+https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
 
 
 Tools
 https://stackshare.io/devops#!
 https://www.tineye.com/   | image seach
 Latex  https://www.overleaf.com/learn
+https://mosh.org/#usage
+https://mobaxterm.mobatek.net/plugins.html
+https://hexo.io/
 
 Finish
 https://www.linuxvoice.com/interview-lennart-poettering/
