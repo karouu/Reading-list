@@ -1,10 +1,3 @@
-Favorite
-http://pages.cs.wisc.edu/~remzi/OSTEP/    |Operation System
-https://danielmiessler.com/study/
-https://danielmiessler.com/blog/mechanizing-the-methodology/
-https://tls13.ulfheim.net/
-https://tls.ulfheim.net/
-
 Linux
 http://www.brendangregg.com/linuxperf.html
 https://makelinux.github.io/kernel/map/
@@ -24,6 +17,7 @@ https://crontab.guru/
 https://regex101.com/
 http://regexr.com/
 
+RFC
 https://datatracker.ietf.org/doc/search
 http://www.rfcreader.com/#
 https://www.rfc-editor.org/rfc/rfc2661.html     RFC2661  Layer Two Tunneling Protocol "L2TP"
@@ -65,33 +59,6 @@ https://redis.io/topics/sentinel
 https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
 
-Tech Media
-https://spectrum.ieee.org/
-https://www.digitalocean.com/community/tutorials
-https://techdevguide.withgoogle.com/
-
-Blogger
-https://codewithoutrules.com/skills/
-https://jvns.ca/
-https://medium.com/netflix-techblog
-https://www.freecodecamp.org/news/
-http://www.brendangregg.com/blog/index.html
-https://alysivji.github.io/archives.html
-https://rednafi.github.io/digressions/
-https://security.tencent.com/index.php/blog
-http://calnewport.com/blog/archive/
-https://tim.blog/
-https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
-https://www.scotthyoung.com/blog/articles/
-https://danielmiessler.com/
-http://www.paulgraham.com/articles.html
-http://kk.org/cooltools/
-http://kk.org/
-http://www.ruanyifeng.com/blog/computer/
-http://www.yinwang.org/
-http://wanqu.co/issues/?page=1
-https://seankross.com/
-https://cs.stanford.edu/~jtysu/
 
 Algorithm
 https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/
@@ -101,6 +68,7 @@ https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-intro
 https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
 https://www.freecodecamp.org/news/big-o-notation/
 
+
 Tools
 https://stackshare.io/devops#!
 https://www.tineye.com/   | image seach
@@ -108,6 +76,7 @@ Latex  https://www.overleaf.com/learn
 https://mosh.org/#usage
 https://mobaxterm.mobatek.net/plugins.html
 https://hexo.io/
+
 
 Finish
 https://www.linuxvoice.com/interview-lennart-poettering/
