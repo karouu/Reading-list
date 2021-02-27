@@ -41,6 +41,12 @@ https://developers.google.com/apps-script/overview
 https://developers.google.com/edu/python/exercises/log-puzzle
 https://www.jikexueyuan.com/path/python/
 
+https://testdriven.io/blog/web-authentication-methods/
+https://testdriven.io/blog/modern-tdd/
+https://testdriven.io/blog/csrf-flask/
+https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/
+https://testdriven.io/blog/python-type-checking/
+
 async i/o
 - http://pgbovine.net/python-async-io-walkthrough.htm
 - https://realpython.com/python-sockets/#handling-multiple-connections
@@ -60,11 +66,11 @@ https://refactoring.guru/refactoring/catalog
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
 https://camillovisini.com/article/abstracting-fastapi-services/
+https://testdriven.io/blog/python-dependency-injection/
 
 
 Tutorial
 https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
-https://testdriven.io/blog/python-dependency-injection/
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
 
