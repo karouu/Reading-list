@@ -2,11 +2,9 @@ https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design
 https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
 https://computers-are-fast.github.io/
 https://lwn.net/Articles/250967/    |What every programmer should know about memory
-https://makefiletutorial.com/
-https://www.tecmint.com/cheat-command-line-cheat-sheet-for-linux-users/
 http://rsync.samba.org/tech_report/
 https://www.cloudflare.com/learning/
-https://opensource.com/article/18/5/dual-boot-linux
+
 https://liveoverflow.com/start-hacking/
 http://m00dy.github.io/I-was-just-asked-to-crack-a-program-Part-1/
 http://devdocs.io/
@@ -42,9 +40,9 @@ https://automationpanda.com/2020/11/09/learning-python-test-automation/amp/
 
 
 Network
-https://www.freecodecamp.org/news/what-is-tls-transport-layer-security-encryption-explained-in-plain-english/
 https://danielmiessler.com/blog/things-you-didnt-know-you-could-do-with-nmap/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
 https://danielmiessler.com/blog/dns-rebinding-explained/?mc_cid=1cefdb40f0&mc_eid=479d5c39cd
+https://danielmiessler.com/projects/reading/summary-the-pentesters-blueprint/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
 https://www.awsgeek.com/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
 https://www.freecodecamp.org/news/free-computer-networking-course/
 https://ftp.arl.army.mil/~mike/ping.html
@@ -58,6 +56,6 @@ https://sectools.org/
 https://www.ittsystems.com/best-open-source-network-monitoring-tools/
 https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/
 https://www.freecodecamp.org/news/wifi-security-explained/
-https://danielmiessler.com/projects/reading/summary-the-pentesters-blueprint/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
 https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/?mc_cid=3f16ae8bed&mc_eid=479d5c39cd
 https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/
+https://www.freecodecamp.org/news/what-is-tls-transport-layer-security-encryption-explained-in-plain-english/
