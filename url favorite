@@ -3,8 +3,19 @@ http://www.brendangregg.com/linuxperf.html
 https://makelinux.github.io/kernel/map/
 http://www.linuxfromscratch.org/lfs/view/stable/
 http://www.maizure.org/projects/decoded-gnu-coreutils/
-https://linuxcontainers.org/
 https://makefiletutorial.com/
+
+Container
+https://www.docker.com/blog/containerized-python-development-part-1/
+https://docs.docker.com/reference/
+https://hub.docker.com/search?q=&type=edition&offering=community
+https://training.play-with-docker.com/
+https://labs.play-with-docker.com/
+https://opensource.com/tags/containers
+https://linuxcontainers.org/
+https://www.freecodecamp.org/news/the-docker-handbook/#introduction-to-containerization-and-docker
+https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/
+https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask-application-using-docker-on-ubuntu-18-04
 
 Git
 https://git-scm.com/doc
