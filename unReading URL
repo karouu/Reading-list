@@ -3,7 +3,6 @@ https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
 https://computers-are-fast.github.io/
 https://lwn.net/Articles/250967/    |What every programmer should know about memory
 http://rsync.samba.org/tech_report/
-https://www.cloudflare.com/learning/
 
 https://liveoverflow.com/start-hacking/
 http://m00dy.github.io/I-was-just-asked-to-crack-a-program-Part-1/
@@ -12,6 +11,7 @@ https://www.freecodecamp.org/news/the-c-beginners-handbook/
 https://materialize.com/kafka-is-not-a-database/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
 https://nullprogram.com/blog/2020/09/04/
 https://ipython.org/index.html
+
 
 System
 https://www.freecodecamp.org/news/devops-prerequisites-course/
@@ -40,21 +40,5 @@ https://blog.oakbits.com/introduction-to-rxpy.html
 https://automationpanda.com/2020/11/09/learning-python-test-automation/amp/
 https://owasp.org/www-project-top-ten/
 
-Network
-https://danielmiessler.com/blog/things-you-didnt-know-you-could-do-with-nmap/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
-https://danielmiessler.com/blog/dns-rebinding-explained/?mc_cid=1cefdb40f0&mc_eid=479d5c39cd
-https://danielmiessler.com/projects/reading/summary-the-pentesters-blueprint/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
-https://www.awsgeek.com/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
-https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/?mc_cid=3f16ae8bed&mc_eid=479d5c39cd
-https://ftp.arl.army.mil/~mike/ping.html
-https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html
-https://linuxhint.com/category/networking/
-https://sectools.org/
-https://www.ittsystems.com/best-open-source-network-monitoring-tools/
 
-https://www.freecodecamp.org/news/wifi-security-explained/
-https://www.freecodecamp.org/news/what-is-tcp-ip-layers-and-protocols-explained/
-https://www.freecodecamp.org/news/what-is-tls-transport-layer-security-encryption-explained-in-plain-english/
-https://www.freecodecamp.org/news/free-computer-networking-course/
 
-https://www.submarinecablemap.com/
