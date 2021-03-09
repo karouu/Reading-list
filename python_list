@@ -7,24 +7,6 @@ https://www.freecodecamp.org/news/2019-web-developer-roadmap/
 https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
 
 
-
-Web&Python
-https://materialize.com/kafka-is-not-a-database/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
-https://realpython.com/python-sqlite-sqlalchemy/
-https://monadical.com/posts/why-use-orm.html
-https://arpitbhayani.me/blogs/lfu
-https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
-https://blog.oakbits.com/introduction-to-rxpy.html
-https://pbpython.com/pandas-excel-range.html
-https://www.blog.pythonlibrary.org/2020/11/03/openpyxl-working-with-microsoft-excel-using-python/
-https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/
-https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/
-https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/
-https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/
-https://automationpanda.com/2020/11/09/learning-python-test-automation/amp/
-https://owasp.org/www-project-top-ten/
-
-
 https://learnxinyminutes.com/docs/python/
 http://pythontutor.com/
 https://diveinto.org/python3/table-of-contents.html 
@@ -88,3 +70,20 @@ https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
 
+
+Web&Python
+https://materialize.com/kafka-is-not-a-database/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
+https://realpython.com/python-sqlite-sqlalchemy/
+https://monadical.com/posts/why-use-orm.html
+
+https://blog.oakbits.com/introduction-to-rxpy.html
+https://pbpython.com/pandas-excel-range.html
+https://www.blog.pythonlibrary.org/2020/11/03/openpyxl-working-with-microsoft-excel-using-python/
+
+https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+https://www.freecodecamp.org/news/how-to-scrape-websites-with-python/
+https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/
+https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/
+https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/
+https://automationpanda.com/2020/11/09/learning-python-test-automation/amp/
+https://owasp.org/www-project-top-ten/
