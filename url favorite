@@ -31,6 +31,13 @@ https://haveibeenpwned.com/
 https://www.checkgfw.com/
 https://www.zoomeye.org/
 https://www.proxifier.com/
+http://rsync.samba.org/tech_report/
+
+
+https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
+https://computers-are-fast.github.io/
+https://lwn.net/Articles/250967/    |What every programmer should know about memory
+http://m00dy.github.io/I-was-just-asked-to-crack-a-program-Part-1/
 
 
 Linux
@@ -66,7 +73,7 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 https://www.freecodecamp.org/news/systems-design-for-interviews/
 https://pgjones.dev/blog/rest-api-evolution-2020/
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
-
+https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
 
 DevOps
 http://devdocs.io/
