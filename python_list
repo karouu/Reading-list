@@ -4,11 +4,13 @@ https://www.python-course.eu/python3_course.php
 https://www.fullstackpython.com/table-of-contents.html
 https://realpython.com/learning-paths/
 https://www.freecodecamp.org/news/2019-web-developer-roadmap/
+https://www.jikexueyuan.com/path/python/
 https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
 
 
-https://learnxinyminutes.com/docs/python/
 http://pythontutor.com/
+https://docs.python-guide.org/
+https://learnxinyminutes.com/docs/python/
 https://diveinto.org/python3/table-of-contents.html 
 https://automatetheboringstuff.com/
 https://www.greenteapress.com/thinkpython/html/index.html
@@ -28,14 +30,11 @@ https://ruslanspivak.com/archives.html
 https://deepsource.io/blog/new-python-web-frameworks/
 https://www.kennethreitz.org/essays/web-framework-classification-and-clarification
 http://www.omahapython.org/IdiomaticPython.html
-https://docs.python-guide.org/
 https://realpython.com/cpython-source-code-guide/
 https://realpython.com/how-to-make-a-discord-bot-python/
 https://www.kadenze.com/courses/all/gallery/all?&sort=latest
 https://developers.google.com/apps-script/overview
 https://developers.google.com/edu/python/exercises/log-puzzle
-https://www.jikexueyuan.com/path/python/
-
 
 https://testdriven.io/blog/web-authentication-methods/
 https://testdriven.io/blog/modern-tdd/
@@ -43,13 +42,14 @@ https://testdriven.io/blog/csrf-flask/
 https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/
 https://testdriven.io/blog/python-type-checking/
 
-async i/o
-- http://pgbovine.net/python-async-io-walkthrough.htm
-- https://realpython.com/python-sockets/#handling-multiple-connections
-- https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
-- https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
-- https://hackernoon.com/asynchronous-python-45df84b82434
+
+Async i/o
+http://pgbovine.net/python-async-io-walkthrough.htm
+https://realpython.com/python-sockets/#handling-multiple-connections
+https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
+https://hackernoon.com/asynchronous-python-45df84b82434
 https://www.freecodecamp.org/news/multithreaded-python/
+https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
 
 Magic method
 https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6
