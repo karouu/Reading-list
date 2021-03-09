@@ -37,6 +37,7 @@ Linux
 http://www.brendangregg.com/linuxperf.html
 https://makelinux.github.io/kernel/map/
 http://www.linuxfromscratch.org/lfs/view/stable/
+https://www.freecodecamp.org/news/the-c-beginners-handbook/
 http://www.maizure.org/projects/decoded-gnu-coreutils/
 https://makefiletutorial.com/
 
@@ -51,6 +52,27 @@ https://linuxcontainers.org/
 https://www.freecodecamp.org/news/the-docker-handbook/#introduction-to-containerization-and-docker
 https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/
 https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask-application-using-docker-on-ubuntu-18-04
+
+
+Architecture
+https://github.com/donnemartin/system-design-primer#learn-how-to-design-large-scale-systems
+https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
+https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+https://www.dezyre.com/article/hadoop-explained-how-does-hadoop-work-and-how-to-use-it-/237
+https://redis.io/topics/introduction
+https://redis.io/topics/sentinel
+https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
+http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+
+
+Algorithm
+https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/
+https://www.interviewcake.com/data-structures-reference
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/
+https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
+https://www.freecodecamp.org/news/big-o-notation/
+
 
 Git
 https://git-scm.com/doc
@@ -98,24 +120,6 @@ https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
 https://commonmark.org/help/
 https://jbt.github.io/markdown-editor/#TVFLbtwwDN3rFCxm0xgTOU133WXXA2QXFDDHYizWEmlIctzZ9Rq9Xk9SetqZFNCCIt97/LwDPEeuYA8hYZkIImFgmZw7HP6r1YwpUXmvPkkArNB1nHFiwcYqXQcnDUwVXrW0eHTPkfYwV9BXaNGIxlhlFt2kO1qGYFFqv3/+qrCQGGEtUvd8hqZQIy4mhtZq4jeLLIdcziB6ETu6J0g6YoIu4onb3yEueLTJBDN1nXfu/rqIRSiwipZAhYJ9E9fm3Cd/Qzz6HXIFfPb/EF/tu19iqJoJRg00AMtlg8whJNo3tDORNJKRrOkwDO4qinCyOWdnmJ16qd0ko25w1hUyzgQvZgPL/O1jbG2pX/p+2za/8cwLBUavZervTPzDy80agd0B8u+UiVtcT37U3J85rtz/wGLXQukLJcJKtQ9mQFIM/duDf/CP/Ywl3Wdda8Mxkv++THd/AA==
 
-Architecture
-https://github.com/donnemartin/system-design-primer#learn-how-to-design-large-scale-systems
-https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
-https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
-https://www.dezyre.com/article/hadoop-explained-how-does-hadoop-work-and-how-to-use-it-/237
-https://redis.io/topics/introduction
-https://redis.io/topics/sentinel
-https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
-http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
-
-
-Algorithm
-https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/
-https://www.interviewcake.com/data-structures-reference
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/
-https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
-https://www.freecodecamp.org/news/big-o-notation/
 
 
 
