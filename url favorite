@@ -2,10 +2,7 @@ Network
 https://danielmiessler.com/blog/things-you-didnt-know-you-could-do-with-nmap/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
 https://danielmiessler.com/blog/dns-rebinding-explained/?mc_cid=1cefdb40f0&mc_eid=479d5c39cd
 https://danielmiessler.com/projects/reading/summary-the-pentesters-blueprint/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
-https://www.awsgeek.com/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
-https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/?mc_cid=3f16ae8bed&mc_eid=479d5c39cd
 https://www.frozentux.net/iptables-tutorial/iptables-tutorial.html
-https://linuxhint.com/category/networking/
 https://sectools.org/
 https://www.ittsystems.com/best-open-source-network-monitoring-tools/
 https://www.freecodecamp.org/news/wifi-security-explained/
@@ -74,6 +71,7 @@ https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
 
 DevOps
+https://www.awsgeek.com/
 http://devdocs.io/
 https://www.freecodecamp.org/news/devops-prerequisites-course/
 https://linkedin.github.io/school-of-sre/
