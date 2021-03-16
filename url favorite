@@ -55,6 +55,7 @@ https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask
 
 
 Architecture& System Design
+https://www.freecodecamp.org/news/systems-design-for-interviews/
 https://github.com/donnemartin/system-design-primer#learn-how-to-design-large-scale-systems
 https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
 https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
@@ -63,7 +64,6 @@ https://redis.io/topics/introduction
 https://redis.io/topics/sentinel
 https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
-https://www.freecodecamp.org/news/systems-design-for-interviews/
 https://pgjones.dev/blog/rest-api-evolution-2020/
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
