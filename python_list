@@ -8,6 +8,7 @@ https://www.jikexueyuan.com/path/python/
 https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
 
 
+
 http://pythontutor.com/
 https://docs.python-guide.org/
 https://learnxinyminutes.com/docs/python/
@@ -43,19 +44,14 @@ https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-sel
 https://testdriven.io/blog/python-type-checking/
 
 
-Async i/o
-http://pgbovine.net/python-async-io-walkthrough.htm
-https://realpython.com/python-sockets/#handling-multiple-connections
-https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
-https://hackernoon.com/asynchronous-python-45df84b82434
-https://www.freecodecamp.org/news/multithreaded-python/
-https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
+
 
 
 Magic method
 https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6
 https://rszalski.github.io/magicmethods/
 https://dbader.org/blog/python-dunder-methods   | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
+
 
 
 Design pattern
@@ -65,12 +61,10 @@ https://alysivji.github.io/clean-architecture-with-the-facade-pattern.html
 https://camillovisini.com/article/abstracting-fastapi-services/
 https://testdriven.io/blog/python-dependency-injection/
 
-
 Tutorial
 https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
-
 
 Web&Python
 https://materialize.com/kafka-is-not-a-database/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
