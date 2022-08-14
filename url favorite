@@ -26,6 +26,19 @@ https://www.zoomeye.org/
 https://www.proxifier.com/
 
 
+iproutes2
+netfilter/iptables
+pcap
+- libpcap
+- winpcap
+- npcap
+used by tcpdump, nmap, iftop,  wireshark,  microsoft  network  monitor
+https://en.wikipedia.org/wiki/Pcap
+http://www.tcpdump.org/index.html
+https://wizardzines.com/zines/tcpdump/
+https://sharkfestus.wireshark.org/sharkfest.11/presentations/McCanne-Sharkfest'11_Keynote_Address.pdf
+
+
 http://www.lighterra.com/papers/modernmicroprocessors/
 https://computers-are-fast.github.io/
 https://lwn.net/Articles/250967/    |What every programmer should know about memory
@@ -44,6 +57,8 @@ https://linuxcontainers.org/
 https://www.freecodecamp.org/news/the-docker-handbook/
 https://www.freecodecamp.org/news/the-kubernetes-handbook/
 https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask-application-using-docker-on-ubuntu-18-04
+https://kodekloud.com/courses/certified-kubernetes-administrator-cka/
+https://www.freecodecamp.org/news/course-on-docker-and-kubernetes/
 
 
 Architecture& System Design
@@ -65,16 +80,9 @@ https://www.awsgeek.com/
 http://devdocs.io/
 https://www.freecodecamp.org/news/devops-prerequisites-course/
 https://linkedin.github.io/school-of-sre/
+Nginx
+https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
 
-
-Algorithm
-https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/
-https://www.interviewcake.com/data-structures-reference
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/
-https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/
-https://www.freecodecamp.org/news/big-o-notation/
-https://arpitbhayani.me/blogs/lfu
 
 Git
 https://gitexplorer.com/
@@ -88,6 +96,11 @@ https://blog.patricktriest.com/you-should-learn-regex/
 https://crontab.guru/
 https://regex101.com/
 http://regexr.com/
+https://blog.patricktriest.com/you-should-learn-regex/
+https://www.python-course.eu/finite_state_machine.php
+https://www.python-course.eu/python3_re.php#A-Simple-Regular-Expression
+https://old.reddit.com/r/Python/comments/rlbi72/tis_the_season_of_giving_learn_python_regex_with/
+https://www.educative.io/courses/python-regular-expressions-with-data-scraping-projects
 
 SQL
 https://arctype.com/
@@ -126,3 +139,4 @@ https://jbt.github.io/markdown-editor/#TVFLbtwwDN3rFCxm0xgTOU133WXXA2QXFDDHYizWE
 
 Javescript
 https://www.freecodecamp.org/news/javascript-dom-manipulation/
+
