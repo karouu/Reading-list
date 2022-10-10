@@ -1,4 +1,7 @@
-Network
+Network&Security
+https://www.theregister.com/2022/10/06/great_firewall_of_china_upgrades/?mc_cid=2d8b05ae0c&mc_eid=479d5c39cd
+https://medium.com/mitre-attack/introducing-attack-campaigns-6b15baa6cbb4
+
 https://danielmiessler.com/blog/things-you-didnt-know-you-could-do-with-nmap/?mc_cid=065d80dbfd&mc_eid=479d5c39cd
 https://danielmiessler.com/blog/dns-rebinding-explained/?mc_cid=1cefdb40f0&mc_eid=479d5c39cd
 https://danielmiessler.com/projects/reading/summary-the-pentesters-blueprint/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
@@ -88,6 +91,7 @@ https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
 
 
 RegEx
+https://cs50.harvard.edu/python/2022/weeks/7/    # cs50_2022  RegExp
 https://realpython.com/courses/building-regexes-python/
 https://blog.patricktriest.com/you-should-learn-regex/
 https://crontab.guru/
@@ -122,6 +126,7 @@ http://norvig.com/21-days.html
 
 
 Javescript
+https://cs50.harvard.edu/x/2022/weeks/8/
 https://www.freecodecamp.org/news/javascript-dom-manipulation/
 
 
