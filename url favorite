@@ -1,8 +1,8 @@
 
 pytest
+https://docs.pytest.org/
 https://kracekumar.com/post/build_plugins_with_pluggy/
 https://codespeak.net/execnet/basics.html
-https://docs.pytest.org/
 https://realpython.com/pytest-python-testing/#test-filtering
 https://www.tutorialspoint.com/pytest/pytest_conftest_py.htm
 https://betterprogramming.pub/understand-5-scopes-of-pytest-fixtures-1b607b5c19ed
