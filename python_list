@@ -1,15 +1,47 @@
 Favorite
-https://pycoders.com/issues
-https://www.python-course.eu/python3_course.php
+http://www.dabeaz.com/tutorials.html
+https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA
+https://ruslanspivak.com/archives.html
 https://www.fullstackpython.com/table-of-contents.html
-https://realpython.com/learning-paths/
-https://www.freecodecamp.org/news/2019-web-developer-roadmap/
-https://www.jikexueyuan.com/path/python/
-https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
+https://realpython.com/
+https://pycoders.com/issues
+https://pyvideo.org
 
 
+blogs
+https://realpython.com/team/lpozoramos/
+https://treyhunner.com/blog/archives/
+https://arpitbhayani.me/blogs/fsm
+https://pypyr.io/
 
+
+parallelism: multiproccesion
+https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing
+https://www.freecodecamp.org/news/multithreaded-python/
+https://www.youtube.com/watch?v=fKl2JW_qrso&list=PLEmpp-OJgnaBbLs_lj5_43C3_ntorysvY&index=21
+
+concurrency: threading & async
+https://docs.python.org/3/library/asyncio.html
+https://www.python.org/dev/peps/pep-0492/ 
+http://pgbovine.net/python-async-io-walkthrough.htm
+https://realpython.com/async-io-python/
+https://realpython.com/python-async-features/
+https://www.youtube.com/watch?v=5_K8GwZ_268&t=1402s
+https://testdriven.io/blog/concurrency-parallelism-asyncio/
+https://towardsdatascience.com/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc
+
+concurrent.futures
+https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
+https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/
+
+
+guide
 http://pythontutor.com/
+https://docs.python.org/3/faq/programming.html#programming-faq
+https://www.python-course.eu/python3_course.php
+https://testdriven.io/guides/complete-python/
+https://www.freecodecamp.org/news/web-developer-roadmap/
+https://www.jikexueyuan.com/path/python/
 https://docs.python-guide.org/
 https://learnxinyminutes.com/docs/python/
 https://diveinto.org/python3/table-of-contents.html
@@ -18,32 +50,30 @@ https://www.greenteapress.com/thinkpython/html/index.html
 https://www.py4e.com/lessons
 https://books.trinket.io/pfe/index.html
 http://socialmedia-class.org/highschool.html
-https://realpython.com/python-defaultdict/
-https://realpython.com/tutorials/all/
-https://pypyr.io/
-https://realpython.com/courses/command-line-interfaces/
+https://developers.google.com/apps-script/overview
+https://developers.google.com/edu/python
+https://developers.google.com/edu/python/exercises/log-puzzle
+
+
+package
 https://hynek.me/articles/testing-packaging/
 https://pythonspeed.com/articles/distributing-software/
 https://jwodder.github.io/kbits/posts/pypkg-mistakes/
-https://arpitbhayani.me/blogs/fsm
-https://treyhunner.com/blog/archives/
-https://ruslanspivak.com/archives.html
-https://deepsource.io/blog/new-python-web-frameworks/
-https://www.kennethreitz.org/essays/web-framework-classification-and-clarification
-http://www.omahapython.org/IdiomaticPython.html
-https://realpython.com/cpython-source-code-guide/
-https://realpython.com/how-to-make-a-discord-bot-python/
-https://www.kadenze.com/courses/all/gallery/all?&sort=latest
-https://developers.google.com/apps-script/overview
-https://developers.google.com/edu/python/exercises/log-puzzle
 
+
+python ssh library
+https://www.paramiko.org/
+https://www.fabfile.org/
+
+logging
+https://docs.python.org/3/howto/logging-cookbook.html#logging-cookbook
+https://monadical.com/posts/ins-and-outs-of-logging-in-python-part-one.html
+https://docs.python.org/3/howto/logging.html
 
 Magic method
 https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6
 https://rszalski.github.io/magicmethods/
 https://dbader.org/blog/python-dunder-methods   | Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org
-
-
 
 Design pattern
 https://refactoring.guru/refactoring/catalog
@@ -53,11 +83,20 @@ https://camillovisini.com/article/abstracting-fastapi-services/
 https://testdriven.io/blog/python-dependency-injection/
 
 Tutorial
+https://realpython.com/python-defaultdict/
 https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html
 https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html
 https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/
+https://towardsdatascience.com/python-tips-and-trick-you-havent-already-seen-37825547544f
+https://realpython.com/courses/command-line-interfaces/
+
+http://www.omahapython.org/IdiomaticPython.html
+https://realpython.com/cpython-source-code-guide/
+
 
 Web&Python
+https://deepsource.io/blog/new-python-web-frameworks/
+https://www.kennethreitz.org/essays/web-framework-classification-and-clarification
 https://materialize.com/kafka-is-not-a-database/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
 https://realpython.com/python-sqlite-sqlalchemy/
 https://monadical.com/posts/why-use-orm.html
