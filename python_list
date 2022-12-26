@@ -1,7 +1,8 @@
 Favorite
-david beazly               http://www.dabeaz.com/tutorials.html
-Raymond Hettinger Talks    https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA
-Ruslan Spivak              https://ruslanspivak.com/archives.html
+david beazly                http://www.dabeaz.com/tutorials.html
+Raymond Hettinger Talks     https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA
+Guido van Rossum            https://www.youtube.com/playlist?list=PLdhhLivm4tPLzt-FMhFdU6C9gDUQtjRSZ
+Ruslan Spivak               https://ruslanspivak.com/archives.html
 https://www.fullstackpython.com/table-of-contents.html
 https://realpython.com/
 https://pycoders.com/issues
@@ -74,6 +75,14 @@ https://developers.google.com/edu/python/exercises/log-puzzle
 https://www.jikexueyuan.com/path/python/
 
 
+pytest
+https://docs.pytest.org/
+https://kracekumar.com/post/build_plugins_with_pluggy/
+https://codespeak.net/execnet/basics.html
+https://realpython.com/pytest-python-testing/#test-filtering
+https://www.tutorialspoint.com/pytest/pytest_conftest_py.htm
+https://betterprogramming.pub/understand-5-scopes-of-pytest-fixtures-1b607b5c19ed
+
 package
 https://hynek.me/articles/testing-packaging/
 https://pythonspeed.com/articles/distributing-software/
@@ -114,12 +123,14 @@ http://socialmedia-class.org/highschool.html
 
 
 Web
+https://webpy.org/
+https://bottlepy.org/docs/dev/#
+https://www.stxnext.com/blog/beginners-introduction-python-frameworks/
 https://www.freecodecamp.org/news/web-developer-roadmap/
 https://deepsource.io/blog/new-python-web-frameworks/
 https://materialize.com/kafka-is-not-a-database/?mc_cid=93a8b4354f&mc_eid=479d5c39cd
 https://realpython.com/python-sqlite-sqlalchemy/
 https://monadical.com/posts/why-use-orm.html
-https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
 https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/
 https://owasp.org/www-project-top-ten/
 
@@ -135,3 +146,20 @@ https://martinheinz.dev/blog/36
 
 
 
+http://www.pythonchallenge.com/
+https://exercism.org/tracks
+https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=GOwlZRXEQSHZ
+https://www.codewars.com/dashboard
+http://codeforces.com/
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup
+https://community.unix.com/
+https://www.codechef.com/#
+http://ke.qq.com/cgi-bin/courseDetail?course_id=71157
+http://www.geconline.cn/goods/show/1027?preview=0
+https://www.pythonanywhere.com/
+
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+http://aosabook.org/en/index.html
+https://www.kaggle.com/learn/overview
+https://www.nand2tetris.org/course
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
