@@ -25,11 +25,9 @@ https://www.youtube.com/watch?v=fKl2JW_qrso&list=PLEmpp-OJgnaBbLs_lj5_43C3_ntory
 
 
 concurrency: threading & async
-https://docs.python.org/3/library/asyncio.html
-https://www.python.org/dev/peps/pep-0492/ 
+https://docs.python.org/3/library/asyncio.html 
 http://pgbovine.net/python-async-io-walkthrough.htm
-https://realpython.com/async-io-python/
-https://realpython.com/python-async-features/
+
 https://www.youtube.com/watch?v=5_K8GwZ_268&t=1402s
 https://testdriven.io/blog/concurrency-parallelism-asyncio/
 https://towardsdatascience.com/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc
@@ -39,9 +37,12 @@ https://autobahn.readthedocs.io/en/latest/asynchronous-programming.html#asyncio-
 https://bbc.github.io/cloudfit-public-docs/asyncio/asyncio-part-1
 https://calpaterson.com/async-python-is-not-faster.html
 
-even if you use asyncio, and not trio, the tutorial of the latter was helpful for me to grok Python asynchronous programming. 
+even if you use asyncio, and not trio, the tutorial of the latter was helpful for me to grok Python asynchronous programming. 
 https://trio.readthedocs.io/en/stable/tutorial.html
 
+
+https://realpython.com/async-io-python/
+https://realpython.com/python-async-features/
 concurrent.futures
 https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
 https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/
