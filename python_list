@@ -23,40 +23,39 @@ https://towardsdatascience.com/asyncio-is-not-parallelism-70bfed470489
 https://www.freecodecamp.org/news/multithreaded-python/
 https://www.youtube.com/watch?v=fKl2JW_qrso&list=PLEmpp-OJgnaBbLs_lj5_43C3_ntorysvY&index=21
 
-
 concurrency: threading & async
-https://docs.python.org/3/library/asyncio.html 
-http://pgbovine.net/python-async-io-walkthrough.htm
-
-https://www.youtube.com/watch?v=5_K8GwZ_268&t=1402s
 https://testdriven.io/blog/concurrency-parallelism-asyncio/
 https://towardsdatascience.com/scheduling-all-kinds-of-recurring-jobs-with-python-b8784c74d5dc
 https://blog.jonlu.ca/posts/async-python-http
-https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst
 https://autobahn.readthedocs.io/en/latest/asynchronous-programming.html#asyncio-futures-and-coroutines
 https://bbc.github.io/cloudfit-public-docs/asyncio/asyncio-part-1
 https://calpaterson.com/async-python-is-not-faster.html
 
-even if you use asyncio, and not trio, the tutorial of the latter was helpful for me to grok Python asynchronous programming. 
-https://trio.readthedocs.io/en/stable/tutorial.html
-
-
+asynchronous programming & asyncIO 
 https://realpython.com/async-io-python/
 https://realpython.com/python-async-features/
+http://pgbovine.net/python-async-io-walkthrough.htm
 concurrent.futures
 https://realpython.com/lessons/parallel-processing-concurrent-futures-overview/
 https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/
+even if you use asyncio, and not trio, the tutorial of the latter was helpful for me to grok Python asynchronous programming. 
+https://trio.readthedocs.io/en/stable/tutorial.html
+A Hitchhikers Guide to Asynchronous Programming
+https://github.com/crazyguitar/pysheeet/blob/master/docs/appendix/python-concurrent.rst
 
-
-socket: synchronous & asynchronous 
+socket programming in python 
 https://docs.python.org/3/library/socket.html
 https://docs.python.org/3/library/select.html
 https://docs.python.org/3/howto/sockets.html#using-a-socket
 https://ruslanspivak.com/lsbaws-part3/
-https://realpython.com/python-sockets/#handling-multiple-connections
-https://stackoverflow.com/questions/8545307/multiprocessing-and-sockets-in-python
-https://www.geeksforgeeks.org/socket-programming-multi-threading-python/
+https://realpython.com/python-sockets/
+Non-blocking socket 
 https://medium.com/vaidikkapoor/understanding-non-blocking-i-o-with-python-part-1-ec31a2e2db9b
+
+
+
+
+
 
 guide
 http://pythontutor.com/
